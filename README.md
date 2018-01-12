@@ -1,6 +1,6 @@
 # hello-world
 
-Hello my frieds!
+Hello my friends!
 
 This is Susy Camargo
 Electrical and Computer Engineer
